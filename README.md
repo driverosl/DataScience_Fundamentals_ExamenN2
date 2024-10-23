@@ -1,2 +1,2 @@
-# DataScience_Fundamentals_ExamenN2
-Diego Riveros - Coding Dojo:Intento nro 2 del examen de DataScience Fundamentals Coding Dojo
+# DataScience_Fundamentals_Examen2
+Diego Riveros - Coding Dojo: Intento número dos del examen de DataScience Fundamentals.
